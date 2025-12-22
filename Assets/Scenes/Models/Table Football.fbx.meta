@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 50d3bfa33011fce44848aa69d81b6e45
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hold bell box
+    second: {fileID: 2100000, guid: 02b95253392322e48a74cc2ee57f9f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holz blau
+    second: {fileID: 2100000, guid: 09554cada6f327a46be463765810f9e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holz rot
+    second: {fileID: 2100000, guid: 2e8f0a0d359034842993c3900d17e510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Klavierlack JB
+    second: {fileID: 2100000, guid: 4ba9499e515f4044da89627c16cda9d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Man 1
+    second: {fileID: 2100000, guid: e6087202e7b75894b819eabc91525d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Man 2
+    second: {fileID: 2100000, guid: 2893b58bcc7151040940404b8d7098f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 3d926185b86808647888cc69fe86fb96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Milchglas lampe
+    second: {fileID: 2100000, guid: 9456aea7e82d7694788475d97edeb2ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Spielfl\xE4che"
+    second: {fileID: 2100000, guid: 0ecbae46792388b41bc1273da5710db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crome.001
+    second: {fileID: 2100000, guid: c9d3163edf1085c49b7a88360a443a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crome.002
+    second: {fileID: 2100000, guid: a6632f018520d464087275b054d94dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crome.003
+    second: {fileID: 2100000, guid: cc2352edc0057c8468d8c41042de2d32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: holz front.001
+    second: {fileID: 2100000, guid: 6af91323bd821fb45a3b903a7ac04643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: radio holz
+    second: {fileID: 2100000, guid: 8c9d644c9b1de9948a29c7930decdfca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schirm
+    second: {fileID: 2100000, guid: 423b9a987c16b1744a857c0dbe81d1c0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball kork_BaseColor Kopie
+    second: {fileID: 2800000, guid: 1221660be4de76547b68d144a0aea244, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball kork_Roughness Kopie
+    second: {fileID: 2800000, guid: 4abd15a2b857d6e41b90912104c0c87d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blaues holz_BaseColor
+    second: {fileID: 2800000, guid: de86b49aacd127e4e81f244e909cf7b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blaues holz_Roughness
+    second: {fileID: 2800000, guid: df7c161eb30cd3c44b2f0ada758d1d64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: crome 2rust_BaseColor
+    second: {fileID: 2800000, guid: c00d6743488837f4e91fa1998a26dd23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: crome 2rust_Metallic
+    second: {fileID: 2800000, guid: 3f1dfc21a7f763c4ab9720fef9a964d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: crome 2rust_Roughness
+    second: {fileID: 2800000, guid: 5c276f357b952dc4093b2199b33abf99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: der 5678 png_BaseColor
+    second: {fileID: 2800000, guid: a105bc1665c4b6a438a319901180623f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: der 5678 png_Roughness
+    second: {fileID: 2800000, guid: 8658d1b31f1c407439747b9d6fe016e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fogelahhorn01_Roughness
+    second: {fileID: 2800000, guid: a99b22913b75c5b46a2c7616075dde60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gumi weis und_Metallic
+    second: {fileID: 2800000, guid: 86835b43b594f3d4e9f2a66a7509fbeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gumi weis und_Normal
+    second: {fileID: 2800000, guid: 71bd8618e2cb57f45ac098896c5be54e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gumi weis und_Roughness
+    second: {fileID: 2800000, guid: 063407463cd42f9418c1970a52d6e2e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rotes holz_Roughness
+    second: {fileID: 2800000, guid: 43ff75bf31720d243b769b84988124c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: schwarz farbe dirt dust smuggles_BaseColor
+    second: {fileID: 2800000, guid: fa7262346c9e4564c97725084420e351, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: schwarz farbe dirt dust smuggles_Roughness
+    second: {fileID: 2800000, guid: 787f1c51ac586c1418230811f8a4d9ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spielfeld 4_Normal
+    second: {fileID: 2800000, guid: 8f308211b4d37ff488d5c7fd13cc5a0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spielfeld 4_Roughness
+    second: {fileID: 2800000, guid: b857ed88ab21a9e419e2e186b4f1f598, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "wood f\xFCr das radio-g2-cgi-2x Kopieas"
+    second: {fileID: 2800000, guid: f0724ff59f025a8448bd0f40dd40d7cf, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
